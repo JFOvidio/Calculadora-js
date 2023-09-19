@@ -1,4 +1,4 @@
-# 💵💵Conversor automático de MOedas
+# 💵💵Conversor automático de Moedas
 >> Projeto criado na aula de Linguagem de Programação da Fatec Itu
 
 ## 🚀🚀Tecnologias Utilizadas
